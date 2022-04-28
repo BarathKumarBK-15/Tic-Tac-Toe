@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="c11">Cell (1, 1)</string>
+    <string name="c12">Cell (1, 2)</string>
+    <string name="c13">Cell (1, 3)</string>
+    <string name="c21">Cell (2, 1)</string>
+    <string name="c22">Cell (2, 2)</string>
+    <string name="c23">Cell (2, 3)</string>
+    <string name="c31">Cell (3, 1)</string>
+    <string name="c32">Cell (3, 2)</string>
+    <string name="c33">Cell (3, 3)</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="turnx">X\'s Turn</string>
+    <string name="turno">O\'s Turn</string>
+    <string name="winx">X Won!!</string>
+    <string name="wino">O Won!!</string>
+    <string name="draw">Draw!!!</string>
+    <string name="reset">Reset</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="homeimg">Home Image</string>
+    <string name="qg">Quit Game</string>
+    <string name="ng">New Game</string>
+    <string name="back">Back</string>
+</resources>
