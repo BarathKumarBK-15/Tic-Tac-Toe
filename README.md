@@ -5,3 +5,14 @@
 
 - The application makes use of an efficient JAVA code to implement the backend of the game. The frontend of the application is constructed with the help of XML. Various options are provided to the user such as to reset the game and start from the game from the start, options to  return back to the home page and to quit the game, each of which is implemented with the help of click listeners on buttons. The application also makes use of two XML pages: home page and the game page.
 
+## Screenshots of the Application :
+<table>
+  <tr>
+    <td> <img src = "Screenshots/1.png" height="430" width="280"> </td>
+    <td> <img src = "Screenshots/2.png" height="430" width="280"> </td>
+  </tr>
+  <tr>
+    <td> <img src = "Screenshots/3.png" height="430" width="280"> </td>
+    <td> <img src = "Screenshots/4.png" height="430" width="280"> </td>
+  </tr>
+</table>
